@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background-color: #fdf4dc;
+}
+
+.vvv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    z-index: 999;
+}
+
+#mainheading {
+    margin-top: 80px;
+    text-align: center;
+    background-image: linear-gradient(to right top, #fde3a8, #fee2a0, #fee097, #ffdf8f, #ffde86);
+}
+
+.dropdown-menu {
+    background-color: #fdf4dc;
+}
+
+.sitelink {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+p {
+    font-size: medium;
+}
+
+img {
+    margin-left: 5px;
+}
+
+.nameofpalace {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item {
+    padding: 30px;
+}
+
+.maindiv {
+    background-image: linear-gradient(to right top, #f9d789, #fadf9e, #fbe6b2, #fcedc7, #fdf4dc);
+    box-shadow: 5px 5px #888888;
+    margin-bottom: 20px;
+}
+audio{
+    margin-left: 42%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to right top, #fde3a8, #fee2a0, #fee097, #ffdf8f, #ffde86);
+}
+#fotter{
+    text-align: center;
+    background-image: linear-gradient(to right top, #fde3a8, #fee2a0, #fee097, #ffdf8f, #ffde86);
+}
+#temp{
+    color: black;
+    text-decoration: none;
+}
